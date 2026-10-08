@@ -1,6 +1,6 @@
 export const COLORS = {
   primary: '#b1a9ff',
-  background: '#e66f6f',
+  background: '#d8b097',
   card: '#b1a9ff',
   textPrimary: '#fa0d0d',
   textSecondary: '#000000',
